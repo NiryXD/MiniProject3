@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;100.0;100.0;1.0;1.0;0;0;NA;All projects resumed after the longest gap.
+WhyRecovered;90.0;100.0;NA;NA;1;1;NA;One misread post-gap commit resolved by checking the commit message.
+ActivityPattern;100.0;100.0;1.0;1.0;0;0;NA;Yearly commit counts matched the author's labels.
+Currentstatus;100.0;100.0;1.0;1.0;0;0;NA;Cutoff date made status unambiguous.
+RecentThemes;80.0;100.0;NA;NA;2;2;NA;"Update" commits mislabeled as Release.
